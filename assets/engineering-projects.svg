@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering projects</title>
+  <desc id="desc">Four featured software engineering projects: Shrtn, SipTime, Recordock, and JayShell.</desc>
+  <style>
+    :root{--bg:#f6f8fa;--panel:#fff;--card:#fff;--border:#d0d7de;--text:#1f2328;--muted:#656d76;--accent:#087f8c}
+    @media(prefers-color-scheme:dark){:root{--bg:#0d1117;--panel:#161b22;--card:#0d1117;--border:#30363d;--text:#f0f6fc;--muted:#8b949e;--accent:#54d3d8}}
+    .bg{fill:var(--bg)} .panel{fill:var(--panel);stroke:var(--border)} .card{fill:var(--card);stroke:var(--border)} .text{fill:var(--text)} .muted{fill:var(--muted)} .accent{fill:var(--accent)}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+  </style>
+  <rect class="bg" width="1200" height="430" rx="22"/>
+  <rect class="panel" x="18" y="18" width="1164" height="394" rx="18"/>
+  <text class="muted mono" x="52" y="54" font-size="14" letter-spacing="1.4">ENGINEERING PROJECTS</text>
+  <line x1="52" y1="72" x2="1148" y2="72" stroke="var(--border)"/>
+
+  <rect class="card" x="52" y="96" width="528" height="132" rx="16"/>
+  <text class="muted mono" x="78" y="126" font-size="12">01 / PRODUCT + EXTENSION</text>
+  <text class="text sans" x="78" y="161" font-size="24" font-weight="700">Shrtn</text>
+  <text class="muted sans" x="78" y="188" font-size="15">Short links · QR codes · redirect analytics</text>
+  <text class="accent mono" x="78" y="212" font-size="12">REACT · NODE · POSTGRESQL · MV3</text>
+
+  <rect class="card" x="620" y="96" width="528" height="132" rx="16"/>
+  <text class="muted mono" x="646" y="126" font-size="12">02 / BROWSER EXTENSION</text>
+  <text class="text sans" x="646" y="161" font-size="24" font-weight="700">SipTime</text>
+  <text class="muted sans" x="646" y="188" font-size="15">Hydration reminders · schedules · quiet hours</text>
+  <text class="accent mono" x="646" y="212" font-size="12">REACT · TYPESCRIPT · VITE · MV3</text>
+
+  <rect class="card" x="52" y="250" width="528" height="132" rx="16"/>
+  <text class="muted mono" x="78" y="280" font-size="12">03 / MEDIA + EXTENSION</text>
+  <text class="text sans" x="78" y="315" font-size="24" font-weight="700">Recordock</text>
+  <text class="muted sans" x="78" y="342" font-size="15">Local-first screen recording for Chrome and web</text>
+  <text class="accent mono" x="78" y="366" font-size="12">REACT · TYPESCRIPT · MEDIARECORDER · INDEXEDDB</text>
+
+  <rect class="card" x="620" y="250" width="528" height="132" rx="16"/>
+  <text class="muted mono" x="646" y="280" font-size="12">04 / PORTFOLIO</text>
+  <text class="text sans" x="646" y="315" font-size="24" font-weight="700">JayShell</text>
+  <text class="muted sans" x="646" y="342" font-size="15">Interactive terminal-style engineering portfolio</text>
+  <text class="accent mono" x="646" y="366" font-size="12">REACT · TYPESCRIPT · VITE · VITEST</text>
+</svg>
