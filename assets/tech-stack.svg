@@ -1,29 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
   <title id="title">Technology stack</title>
-  <desc id="desc">Languages, frameworks, data technologies, engineering tools, and quality practices.</desc>
+  <desc id="desc">Languages, frontend, backend, data, and engineering tools.</desc>
   <style>
-    :root{--bg:#f6f8fa;--panel:#fff;--border:#d0d7de;--text:#1f2328;--muted:#656d76;--accent:#087f8c;--chip:#f6f8fa}
-    @media(prefers-color-scheme:dark){:root{--bg:#0d1117;--panel:#161b22;--border:#30363d;--text:#f0f6fc;--muted:#8b949e;--accent:#54d3d8;--chip:#0d1117}}
-    .bg{fill:var(--bg)} .panel{fill:var(--panel);stroke:var(--border)} .text{fill:var(--text)} .muted{fill:var(--muted)} .accent{fill:var(--accent)} .chip{fill:var(--chip);stroke:var(--border)}
+    :root{--bg:#f6f8fa;--panel:#fff;--border:#d0d7de;--text:#1f2328;--muted:#656d76;--accent:#087f8c}
+    @media(prefers-color-scheme:dark){:root{--bg:#0d1117;--panel:#161b22;--border:#30363d;--text:#f0f6fc;--muted:#8b949e;--accent:#54d3d8}}
+    .bg{fill:var(--bg)} .panel{fill:var(--panel);stroke:var(--border)} .text{fill:var(--text)} .muted{fill:var(--muted)} .accent{fill:var(--accent)}
     .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
   </style>
-  <rect class="bg" width="1200" height="330" rx="22"/>
-  <rect class="panel" x="18" y="18" width="1164" height="294" rx="18"/>
-  <text class="muted mono" x="52" y="54" font-size="14" letter-spacing="1.4">TECH STACK</text>
-  <line x1="52" y1="72" x2="1148" y2="72" stroke="var(--border)"/>
+  <rect class="bg" width="1200" height="230" rx="22"/>
+  <rect class="panel" x="18" y="18" width="1164" height="194" rx="18"/>
 
-  <text class="accent mono" x="52" y="111" font-size="14">LANGUAGES</text>
-  <text class="text sans" x="190" y="111" font-size="17">TypeScript · JavaScript · Java · Python · SQL</text>
+  <text class="muted mono" x="52" y="52" font-size="14" letter-spacing="1.4">TECH STACK</text>
+  <line x1="52" y1="69" x2="1148" y2="69" stroke="var(--border)"/>
+  <line x1="600" y1="88" x2="600" y2="188" stroke="var(--border)"/>
 
-  <text class="accent mono" x="52" y="151" font-size="14">FRONTEND</text>
-  <text class="text sans" x="190" y="151" font-size="17">React · Vite · MUI · Tailwind CSS · responsive UI</text>
+  <text class="accent mono" x="52" y="103" font-size="13">LANGUAGES</text>
+  <text class="text sans" x="170" y="103" font-size="16">TypeScript · JavaScript · Java · Python · SQL</text>
 
-  <text class="accent mono" x="52" y="191" font-size="14">BACKEND</text>
-  <text class="text sans" x="190" y="191" font-size="17">Node.js · Express · Spring Boot · REST APIs · OpenAPI</text>
+  <text class="accent mono" x="52" y="143" font-size="13">FRONTEND</text>
+  <text class="text sans" x="170" y="143" font-size="16">React · Vite · MUI · Tailwind CSS</text>
 
-  <text class="accent mono" x="52" y="231" font-size="14">DATA</text>
-  <text class="text sans" x="190" y="231" font-size="17">PostgreSQL · MySQL · Supabase · IndexedDB · browser storage</text>
+  <text class="accent mono" x="52" y="183" font-size="13">BACKEND</text>
+  <text class="text sans" x="170" y="183" font-size="16">Node.js · Express · Spring Boot · REST APIs</text>
 
-  <text class="accent mono" x="52" y="271" font-size="14">ENGINEERING</text>
-  <text class="text sans" x="190" y="271" font-size="17">Git · GitHub Actions · Docker · Vercel · Railway · Postman · Vitest</text>
+  <text class="accent mono" x="635" y="103" font-size="13">DATA</text>
+  <text class="text sans" x="735" y="103" font-size="16">PostgreSQL · MySQL · Supabase · IndexedDB</text>
+
+  <text class="accent mono" x="635" y="143" font-size="13">DELIVERY</text>
+  <text class="text sans" x="735" y="143" font-size="16">GitHub Actions · Docker · Vercel · Railway</text>
+
+  <text class="accent mono" x="635" y="183" font-size="13">QUALITY</text>
+  <text class="text sans" x="735" y="183" font-size="16">Vitest · Postman · OpenAPI · validation</text>
 </svg>
