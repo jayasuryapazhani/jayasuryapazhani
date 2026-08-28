@@ -7,50 +7,49 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jayasurya-pazhani/">LinkedIn</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:pazhanijayasurya@gmail.com">Email</a>
+  <a href="mailto:pazhanijayasurya@gmail.com">Contact me</a>
 </p>
 
 <p align="center">
-  <strong>Build useful software. Ship it. Keep improving it.</strong>
+  <img src="https://komarev.com/ghpvc/?username=jayasuryapazhani&label=PROFILE%20VIEWS&color=6e7681&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="./assets/engineering-flow.svg" alt="Continuous engineering cycle from idea through shipping, monitoring, bug fixes, and new features" width="100%" />
+  <img src="./assets/engineering-flow.svg" alt="Continuous software engineering loop" width="100%" />
 </p>
 
-<h3 align="center">SELECTED WORK</h3>
+<h2 align="center">Featured Engineering Projects</h2>
+<p align="center"><sub>Products I designed, built, tested, and shipped.</sub></p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01</sub><br />
-      <strong><a href="https://github.com/jayasuryapazhani/shrtn">Shrtn</a></strong><br />
-      <sub>URL shortener + Chromium extension</sub><br /><br />
-      <sub><a href="https://shrtn.up.railway.app/">Live</a> · <a href="https://chromewebstore.google.com/detail/shrtn/adodmibgcbmnhdagfkipjpjfkeaalfim">Store</a> · <a href="https://github.com/jayasuryapazhani/shrtn">Source</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub>02</sub><br />
-      <strong><a href="https://github.com/jayasuryapazhani/SipTime">SipTime</a></strong><br />
-      <sub>Privacy-first hydration reminders</sub><br /><br />
-      <sub><a href="https://siptime.vercel.app/">Live</a> · <a href="https://chromewebstore.google.com/detail/siptime/npjkkjooolnpkpmleojnembmiaeccnml">Store</a> · <a href="https://github.com/jayasuryapazhani/SipTime">Source</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03</sub><br />
-      <strong><a href="https://github.com/jayasuryapazhani/recordock">Recordock</a></strong><br />
-      <sub>Local-first screen recorder</sub><br /><br />
-      <sub><a href="https://recordock.vercel.app/">Live</a> · <a href="https://chromewebstore.google.com/detail/lcnalkobdoddfeobfgpdoekheigmcgob">Store</a> · <a href="https://github.com/jayasuryapazhani/recordock">Source</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04</sub><br />
-      <strong><a href="https://github.com/jayasuryapazhani/jay-shell">JayShell</a></strong><br />
-      <sub>Interactive terminal portfolio</sub><br /><br />
-      <sub><a href="https://jay-shell.vercel.app/">Live</a> · <a href="https://github.com/jayasuryapazhani/jay-shell">Source</a></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/jayasuryapazhani/shrtn"><img src="./assets/project-shrtn.svg" alt="Shrtn" width="49%" /></a>
+  <a href="https://github.com/jayasuryapazhani/SipTime"><img src="./assets/project-siptime.svg" alt="SipTime" width="49%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jayasuryapazhani/recordock"><img src="./assets/project-recordock.svg" alt="Recordock" width="49%" /></a>
+  <a href="https://github.com/jayasuryapazhani/jay-shell"><img src="./assets/project-jayshell.svg" alt="JayShell" width="49%" /></a>
+</p>
+
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jayasuryapazhani&amp;bg_color=0d1117&amp;color=8b949e&amp;line=54d3d8&amp;point=f0f6fc&amp;area=false&amp;hide_border=true&amp;hide_title=true&amp;radius=16&amp;height=240&amp;days=31&amp;grid=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jayasuryapazhani&amp;bg_color=ffffff&amp;color=656d76&amp;line=087f8c&amp;point=1f2328&amp;area=false&amp;hide_border=true&amp;hide_title=true&amp;radius=16&amp;height=240&amp;days=31&amp;grid=false" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayasuryapazhani&amp;bg_color=ffffff&amp;color=656d76&amp;line=087f8c&amp;point=1f2328&amp;area=false&amp;hide_border=true&amp;hide_title=true&amp;radius=16&amp;height=240&amp;days=31&amp;grid=false" alt="Jayasurya's recent GitHub activity" width="100%" />
+  </picture>
+</p>
 
 <p align="center">
   <sub>TypeScript · React · Java · Python · Node.js · PostgreSQL · GitHub Actions</sub>
+</p>
+
+---
+
+<p align="center">
+  <strong>Contact</strong><br />
+  <a href="mailto:pazhanijayasurya@gmail.com">pazhanijayasurya@gmail.com</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://jay-shell.vercel.app/">jay-shell.vercel.app</a>
 </p>
